@@ -1,0 +1,4 @@
+bricks:
+  new_feature:
+    path: bricks/new_feature
+  bloc: ^0.2.0
